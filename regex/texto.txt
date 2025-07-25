@@ -1,0 +1,16 @@
+Reunião marcada para 12/03/2024 às 14h. O contrato foi assinado em 01-07-25, mas a entrega só ocorreu em 30.08.22.
+Durante a pandemia, em 2020-05-15, várias empresas migraram para o home office.
+A próxima revisão está agendada para 2026/04/10, conforme o cronograma interno.
+
+Lembrando que o projeto inicial começou em 5 de fevereiro de 1999, e teve um reinício em 22 de Dezembro de 2021.
+O evento "Tech Summit" ocorrerá no dia 3 de setembro de 2025, com encerramento previsto para 04/09/2025.
+Já a feira de livros será de 20-10-2023 até 25-10-2023, no centro de convenções.
+
+Em uma conversa, Ana mencionou: "Nos conhecemos em 15 de março de 2011".
+Houve também um alerta sobre a atualização do sistema em 2022/12/01.
+Por fim, o relatório será enviado até 31.12.2025.
+
+Observações como “prazo final até 1 de janeiro de 2026” e “última reunião foi em 2021-11-09” também devem ser registradas.
+
+
+[0-9]{2}[/.-][0-9]{2}[/.-][0-9]{4}
